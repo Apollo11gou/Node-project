@@ -1,0 +1,9 @@
+[submodule "adding-up"]
+	path = adding-up
+	url = https://github.com/Apollo11gou/adding-up.git
+[submodule "intro-curriculum-3001"]
+	path = intro-curriculum-3001
+	url = https://github.com/Apollo11gou/intro-curriculum-3001.git
+[submodule "fibonacci"]
+	path = fibonacci
+	url = https://github.com/Apollo11gou/fibonacci.git
